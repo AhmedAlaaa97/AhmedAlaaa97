@@ -9,7 +9,7 @@
 </p>
 
 # 💡 About Me:
-I'm a full-stack developer and AEC Engineer aspiring full-stack developer with a thirst for knowledge and a burning<br>passion for web development. 🌱✨ Driven by my love for learning, I actively explore different frameworks I am eager to<br>contribute and make a positive impact in the field. I possess a growth mindset and I approach challenges with resilience<br>and determination.
+I'm a full-stack developer aspiring full-stack developer with a thirst for knowledge and a burning<br>passion for web development. 🌱✨ Driven by my love for learning, I actively explore different frameworks. I am eager to<br>contribute and make a positive impact in the field. I possess a growth mindset and I approach challenges with resilience<br>and determination.
 
 
 # 🌐 Socials:
@@ -57,8 +57,6 @@ I'm a full-stack developer and AEC Engineer aspiring full-stack developer with a
 
 <!--
 **AhmedAlaaa97/AhmedAlaaa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
